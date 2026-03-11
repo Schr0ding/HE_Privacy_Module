@@ -180,7 +180,7 @@ The `demo/` directory contains **8 video files** illustrating a complete privacy
 | 2 | `2_asset_creation.mp4` | Register a data asset |
 | 3 | `3_Contract_creation.mp4` | Establish a contract between parties |
 | 4 | `4_Consumer_keygen.mp4` | Consumer generates a HE key pair |
-| 5 | `5_Aggregator_Key_Assignation.mp4` | Aggregator is assigned the public key |
+| 5 | `5_Aggregator_Key_Assignation.mp4` | Aggregator distributes the public key |
 | 6 | `6_Provider_encryption.mp4` | Provider encrypts data with the public key |
 | 7 | `7_Aggregator_computation.mp4` | Aggregator performs computation on encrypted data |
 | 8 | `8_Decryption.mp4` | Consumer decrypts the final result |
